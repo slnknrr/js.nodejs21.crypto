@@ -1,4 +1,4 @@
-;((lib,env,main,sum,enc,dec)=>{/*module:@niknils/crypto:2024.1.21,src:Wrepo""*/env={
+;((lib,env,main,sum,enc,dec)=>{/*module:@niknils/crypto:2024.1.21,src:Wrepo"https://github.com/slnknrr/js.nodejs21.crypto/new/main",own:slnknrr@noreply.codeberg.org*/env={
         declare : null, //preprocessing standard;
         engine  : null
     }; //engine detect:
